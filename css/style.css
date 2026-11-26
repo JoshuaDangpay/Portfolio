@@ -119,3 +119,6 @@ h2{font-size:1.1rem;letter-spacing:0}
 .pi .chip{padding:3px 12px;font-size:.9rem}
 .pi .a p{font-size:1.02rem;line-height:1.55}
 .sk li{padding:8px 12px}
+.home .ph{background:radial-gradient(ellipse at 50% 38%,#2c5a4f 0%,#17302c 55%,#10201e 100%)}
+.home img{object-fit:contain;object-position:50% 100%}
+@media(max-width:800px){.home img{object-fit:cover;object-position:50% 0}}
