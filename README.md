@@ -11,7 +11,7 @@ Extract the zip fully, then double-click `index.html`. For best results use a lo
 - **Awards:** in `achievements.html`, copy an `<div class="item">...</div>` inside `.awards`. The grid is designed for five awards; with more, the thumbnails get smaller (the lightbox still shows each one full size).
 
 ## Edit your information
-- **About me, personal details (height, weight, languages), contact, education, skills:** `personal.html`. The homepage intro is in `index.html`.
+- **Introduction, personal details (height, weight, languages), contact, education, skills:** `personal.html`. The homepage intro is in `index.html`.
 - **Age** is calculated from `data-birth="2008-01-07"`. The page also prints the birthday in text, so edit both if you change it.
 - **Phone number and email:** the `tel:` and `mailto:` links in the Contact card. Delete the number's line if you'd rather not show it publicly.
 - **Colors:** the variables at the top of `css/style.css`. The accent is `--ac`.
